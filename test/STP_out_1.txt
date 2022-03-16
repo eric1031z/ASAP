@@ -1,0 +1,16 @@
+Hello
+NewCost:19 ,Hello
+NewCost:16 ,Hello
+Ignore
+Ignore
+NewCost:23 ,Hello
+NewCost:8 ,Hello
+NewCost:8 ,Hello
+==========
+ID :50
+Prority:32768
+RootID:20
+RootPriortity:4096
+RootPortTo:18
+Cost:8
+==========

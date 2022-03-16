@@ -1,0 +1,16 @@
+ID :44, next hop : 355, cost : 125
+ID :98, next hop : 98, cost : 0
+ID :155, next hop : 388, cost : 100
+ID :202, next hop : 388, cost : 100
+ID :207, next hop : 388, cost : 75
+ID :217, next hop : 358, cost : 125
+ID :235, next hop : 355, cost : 125
+ID :243, next hop : 355, cost : 75
+ID :259, next hop : 355, cost : 75
+ID :274, next hop : 388, cost : 100
+ID :299, next hop : 358, cost : 100
+ID :351, next hop : 355, cost : 150
+ID :355, next hop : 355, cost : 50
+ID :358, next hop : 358, cost : 75
+ID :388, next hop : 388, cost : 50
+ID :452, next hop : 388, cost : 125

@@ -1,0 +1,5 @@
+ID :3, next hop : 3, cost : 275
+ID :4, next hop : 7, cost : 225
+ID :5, next hop : 5, cost : 175
+ID :7, next hop : 7, cost : 200
+ID :8, next hop : 8, cost : 0

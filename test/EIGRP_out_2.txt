@@ -1,0 +1,13 @@
+Hello
+Update
+Update
+Update
+Update Hello
+Switch ID:6
+paths:
+ID:2, next hop:2, cost:150
+ID:6, next hop:6, cost:0
+ID:8, next hop:9, cost:475
+ID:9, next hop:9, cost:175
+ID:12, next hop:12, cost:250
+ID:15, next hop:15, cost:275

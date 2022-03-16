@@ -1,0 +1,24 @@
+Hello
+NewCost:264 ,Hello
+NewCost:269 ,Hello
+Ignore
+NewCost:4 ,Hello
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+Ignore
+==========
+ID :87
+Prority:32768
+RootID:77
+RootPriortity:4096
+RootPortTo:77
+Cost:4
+==========
